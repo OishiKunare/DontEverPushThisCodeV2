@@ -6,7 +6,7 @@
 
 ---
 
-## What This Is 
+## What This Is
 
 Deliberately broken codebase used to teach DevSecOps pipeline construction.  
 Students build each security gate from scratch using `TODO#` markers in `.github/workflows/helpme.yaml`.
